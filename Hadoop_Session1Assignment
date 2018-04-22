@@ -1,0 +1,37 @@
+This script is Deprecated. Instead use start-dfs.sh and start-yarn.sh
+Starting namenodes on [localhost]
+localhost: namenode running as process 6502. Stop it first.
+localhost: datanode running as process 6604. Stop it first.
+Starting secondary namenodes [0.0.0.0]
+0.0.0.0: secondarynamenode running as process 6805. Stop it first.
+starting yarn daemons
+resourcemanager running as process 6966. Stop it first.
+localhost: nodemanager running as process 7069. Stop it first.
+
+30242 Jps
+6805 SecondaryNameNode
+6502 NameNode
+6966 ResourceManager
+6604 DataNode
+7069 NodeManager
+6805 SecondaryNameNode
+6502 NameNode
+6966 ResourceManager
+30264 Jps
+6604 DataNode
+7069 NodeManager
+
+/home/acadgild
+
+demo.txt Desktop	Documents	Downloads	eclipseeclipse-workspace	install
+Murali_Assignment1	Musicoutput.txt	Pictures	pig_1523253070337.log
+Public	Templates	Videos
+
+rwxr-xr-x - acadgild supergroup 0 2018-04-13 13:16 /hadoopdata
+drwxr-xr-x - acadgild supergroup 0 2018-04-09 23:54 /hbase
+drwxr-xr-x - acadgild supergroup 0 2018-02-02 12:49 /sqoopout111
+drwxrwx--- - acadgild supergroup 0 2018-02-09 11:35 /tmp
+drwxr-xr-x - acadgild supergroup 0 2018-02-09 14:50 /user
+File: demoTest.txt
+Today they knew that they are playing for the big match. They had to recover fr$[4;1HHowever they resurrect themselves very good. File: demoTest.txt Modified Today they knew that they are playing for the big match. They had to recover from la$ However they resurrect themselves very good.
+
